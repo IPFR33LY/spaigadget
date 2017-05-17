@@ -1,5 +1,5 @@
 # SP.AI Gadget
-## Adds Scooty Puff Pricing to Evepraisal/Skyblade
+## Adds SPAI/Valhalla to Evepraisal/Skyblade
 
 ### Description
 This is a TOTAL ripoff from the original by https://github.com/elminer
