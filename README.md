@@ -3,6 +3,7 @@
 
 ### Description
 This is a TOTAL ripoff from the original by https://github.com/elminer
+
 Updated to work with current SPAI/Valhalla deliveries pricing.
 
 This little bit of JavaScript and HTML adds Scooty Puff pricing to Evepraisal at the click of a bookmark.  Works in Firefox, Chrome, and (surprisingly) the IGB.  If ships are included in the list, you can switch to packaged ship sizes if desired by clicking the button next to the table.
