@@ -448,9 +448,9 @@ $(function() {
     "Zealot": 10000,
     "Zephyr": 500
   };
-  $.COLLAT_AMOUNT = 0.02;
-  $.C4C_COST = 400;
-  $.JITA_COST = 300;
+  $.COLLAT_AMOUNT = 0.015;
+  $.C4C_COST = 390;
+  $.JITA_COST = 290;
   $.LOCAL_FADE_COST = 100;
 
   // Put the commas back when we click on something else
